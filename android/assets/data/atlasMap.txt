@@ -23,13 +23,6 @@ calle
   orig: 482, 244
   offset: 0, 0
   index: -1
-Carros/BMW X6
-  rotate: false
-  xy: 98, 871
-  size: 83, 184
-  orig: 83, 184
-  offset: 0, 0
-  index: -1
 Animaciones/newExplosion5
   rotate: false
   xy: 656, 768
@@ -37,6 +30,13 @@ Animaciones/newExplosion5
   orig: 70, 69
   offset: 0, 0
   index: -1
+  Carros/BMW X6
+    rotate: false
+    xy: 98, 871
+    size: 83, 184
+    orig: 83, 184
+    offset: 0, 0
+    index: -1
 Shop/btSelected
   rotate: false
   xy: 934, 538

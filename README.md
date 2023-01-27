@@ -1,4 +1,4 @@
-El link al repositorio de github es: https://github.com/SANTiiAL67/PracticaFinalJuegoCoches
+El link al repositorio de github es: https:https://github.com/SANTiiAL67/PracticaJuegoAndroid
 Objetivos
 Desarrollo de un videojuego 2D
 
